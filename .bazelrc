@@ -1,1 +1,3 @@
 common --watchfs
+build --spawn_strategy=remote,local
+build --strategy=Javac=worker
