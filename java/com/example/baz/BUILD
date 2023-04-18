@@ -4,6 +4,6 @@ java_library(
         "Baz.java"
     ],
     deps = [
-        "//java/com/example/fooBar"
+        "//java/com/example/foobar"
     ]
 )
