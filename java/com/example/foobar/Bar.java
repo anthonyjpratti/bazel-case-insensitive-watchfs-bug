@@ -1,4 +1,4 @@
-package com.example.fooBar;
+package com.example.foobar;
 
 public class Bar {
     public String methodToHelp(String gitIdentifyMoves) {

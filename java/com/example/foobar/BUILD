@@ -1,5 +1,5 @@
 java_library(
-    name = "fooBar",
+    name = "foobar",
     srcs = [
         "Bar.java"
     ],

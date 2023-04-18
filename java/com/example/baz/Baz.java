@@ -1,6 +1,6 @@
 package com.example.baz;
 
-import com.example.fooBar.Bar;
+import com.example.foobar.Bar;
 
 public class Baz extends Bar {
 
